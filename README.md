@@ -13,6 +13,14 @@
 > before use the codes make sure requirements are installed in your workspace.<br>
 > get requirements [list](requirements.txt)<br>
 
+## upstream the local repository with remote repository
+```
+git remote add upstream https://github.com/tirtharajsinha/Autoencoder_for_image_compression.git
+git fetch upstream
+git checkout main
+git merge upstream/main
+
+``` 
 
 ## importent Links
 1. kaggle - [visit](https://www.kaggle.com)
