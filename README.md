@@ -18,10 +18,14 @@
 git remote add upstream https://github.com/tirtharajsinha/Autoencoder_for_image_compression.git
 git fetch upstream
 git checkout main
-git reset --hard origin/main
 git merge upstream/main
 
 ``` 
+
+## reset repo
+```
+git reset --hard origin/main
+```
 
 ## importent Links
 1. kaggle - [visit](https://www.kaggle.com)
