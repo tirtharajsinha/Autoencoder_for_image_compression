@@ -4,10 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=This+project+is+ongoing.;This+is+a+research+based+project."></a>
 </p>
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/website?label=Group_Project&style=for-the-badge&url=#"></a>
-  <a href="#"><img src="https://img.shields.io/website?label=Contributor - 4?color=1DA1F2&logo=kaggle&style=for-the-badge"></a>
-</p>
+
 
 
 
