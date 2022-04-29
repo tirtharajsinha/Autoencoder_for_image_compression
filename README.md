@@ -1,6 +1,14 @@
 # Autoencoder for image compression
+### Domain : medical image compression
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=This+project+is+ongoing.;This is a research based project."></a>
+</p>
 
-### Domain : ___
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/website?label=codevisors.github.io&style=for-the-badge&url="></a>
+  <a href="#"><img src="https://img.shields.io/kaggle?color=1DA1F2&logo=kaggle&style=for-the-badge"></a>
+</p>
+
 
 
 ## project requirement
