@@ -1,7 +1,7 @@
 # Autoencoder for image compression
 ### Domain : medical image compression
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=This+project+is+ongoing.;This+is+a+research+based+project."></a>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=This+project+is+under+development.;This+is+a+research+based+project.">
 </p>
 
 
